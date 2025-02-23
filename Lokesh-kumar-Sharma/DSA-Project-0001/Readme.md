@@ -19,7 +19,7 @@
 
 ## 🚀 Live Demo  
 
-👉 [Try it here](https://vizual-sort.vercel.app/selection)  
+👉 [Try it here](https://vizual-sort.vercel.app/)  
 
 
 
