@@ -1,11 +1,7 @@
 # Surbhi Rawat
-# Data Structures and Algorithms (DSA) - Array & Linked List
+# Data Structures and Algorithms (DSA) 
 
-This repository contains implementations and solutions for common *Data Structures and Algorithms (DSA), focusing on **Array* and *Linked List* problems, commonly used in technical interviews and competitive programming.
-
-## 📌 Project Overview:
-
-This project provides a collection of algorithms and data structure implementations for *Arrays* and *Linked Lists*. The solutions are organized into different sections and are meant for educational purposes, helping individuals practice, learn, and master these fundamental concepts.
+This repository contains implementations and solutions for common *Data Structures and Algorithms (DSA), focusing on **Array* and *Linked List* problems as of now, commonly used in technical interviews and competitive programming.
 
 ### 🎯 Key Features:
 - *Array Operations*: Implementations for array manipulation, searching, and sorting.
@@ -18,8 +14,8 @@ This project provides a collection of algorithms and data structure implementati
   - Other DSA-related problems like reversing an array, finding duplicates, etc.
 
 ## 🛠 Tech Stack:
-- *Language*: Python / C++ / Java (Specify depending on the language used)
-- *IDE/Editor*: Visual Studio Code / PyCharm / IntelliJ IDEA (for respective languages)
+- *Language*:Java
+- *IDE/Editor*:IntelliJ IDEA 
 - *Version Control*: Git (for maintaining code history)
 
 ## 🔢 Array & Linked List DSA Operations:
