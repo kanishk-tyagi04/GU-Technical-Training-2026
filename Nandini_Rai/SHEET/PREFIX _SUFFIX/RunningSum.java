@@ -12,12 +12,12 @@ class RunningSum {
         Scanner sc = new Scanner(System.in);
         int n =sc.nextInt();
         int nums[] = new int[n];
-        for(int i=0;i<nums.length;i+){
+        for(int i=0;i<nums.length;i++){
             nums[i] = sc.nextInt();
         }
         RunningSum rs = new RunningSum();
         int result[] = rs.runningSum(nums);
-        for(int i=0;i<nums.length;i+){
+        for(int i=0;i<nums.length;i++){
            System.out.print(result[i]+" ");
         }
     }
