@@ -41,7 +41,7 @@ class ShipPackages{
             weights[i] = sc.nextInt();
         }
         int days = sc.nextInt();
-       ShipPackages sp = new ShipPackages()
+       ShipPackages sp = new ShipPackages();
         int result = sp.shipWithinDays(weights, days);
         System.out.println("Minimum ship capacity needed: " + result);
     }
