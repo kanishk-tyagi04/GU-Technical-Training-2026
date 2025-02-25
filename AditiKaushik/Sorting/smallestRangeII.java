@@ -36,3 +36,6 @@ class smallestRangeII{
         sc.close();
     }
 }
+
+//Time Complexity: O(nlogn)
+//Space Complexity: O(1)
